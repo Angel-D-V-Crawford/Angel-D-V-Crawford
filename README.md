@@ -5,5 +5,5 @@ Recently finished a Systems Engineering bachelor's degree. At this moment, I'm s
 I'm from México and live in Mazatlán, Sinaloa.
 Recently, I've been making some side projects to learn new technologies and obtain experience to be able to get jobs. Always looking to improve my skills and for professional development.
 
-Angel David Vazquez Crawford (He/Him)
+Angel David Vazquez Crawford (He/Him) </br>
 E-mail: angel.d.v.craw@gmail.com
