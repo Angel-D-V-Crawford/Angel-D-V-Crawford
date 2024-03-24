@@ -1,6 +1,5 @@
 # Hi there 👋 I'm Angel D. V. Crawford.
 ## Software Developer
-### Java - HTML5 - CSS - PHP - Javascript - MySQL - MongoDB - NodeJS - Python
 Currently I am in my professional growth, getting experience from jobs looking for learning both Soft Skills and Hard Skills.
 Graduated from a Systems Engineering bachelor's degree.
 I'm from México and live in Mazatlán, Sinaloa.
